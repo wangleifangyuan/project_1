@@ -1,0 +1,13 @@
+[1mdiff --git a/README b/README[m
+[1mindex 53e10bc..e7dc193 100644[m
+[1m--- a/README[m
+[1m+++ b/README[m
+[36m@@ -1,4 +1,7 @@[m
+ insert [m
+ fdfsfsdf[m
+ sdfsf[m
+[31m-sdfsdf[m
+[32m+[m[32msdfsdfdfasfs[m
+[32m+[m[32msdfasdf[m
+[32m+[m[32msdfasdf[m
+[41m+[m

@@ -1,0 +1,4 @@
+{
+  "gitlens.views.repositories.showRemotes": true,
+  "workbench.settings.editor": "json"
+}
